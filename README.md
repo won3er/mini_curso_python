@@ -16,7 +16,8 @@ Módulo 3: Usando Lista, Usando Tupla, Usando Dicionário;
 Módulo 4: Programação orientada a objetos; utilizando classes, métodos, atributos, instâncias e heranças;
 <br>
 Módulo 5: Uso e aplicação de Biblioteca;  Numpy, Matplotlib, e Scipy, também uso de framework Flask com HTML.
+<br
 
-<br>
+
 ![Python svg](https://github.com/user-attachments/assets/9ddbbc89-c3f3-4b23-ba85-b7e3b95c8aca)
-<br>
+
